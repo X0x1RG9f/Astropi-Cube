@@ -33,11 +33,14 @@
 - [Licensing](#licensing)
 - [Contact](#contact)
 
+<br/>
 
 ## Disclaimers
  - <strong style="color: red;">Date of 06.07.2021, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong>
  - Dew Controllers & Meteo modules are largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
+
+<br/>
 
 ## About AstroPi
 ### Purpose
@@ -49,7 +52,9 @@ AstroPi is composed of two main enclosures :
  - Raspberry Pi + AstroPi Hat (110 x 130 x 40mm)
  - AstroPi GPS & Meteo Module (50 x 40 x 35mm)
 
-AstroPi Hat can be used without the GPS & Meteo Module. Total cost of the DiY project is arround 200$ (including Raspberry, cases, components, Sensors & Controllers)
+AstroPi Hat can be used without the GPS & Meteo Module. Total cost of the DiY project is arround 200$ (including Raspberry, cases, components, Sensors & Controllers).
+
+Please note that project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. However, I strongly suggest you to use Astroberry Server, as it already provide interesting astrophotography tools.
 
 ### Features: AstroPi Hat
  - Astroberry Server Operating System (
@@ -79,7 +84,9 @@ AstroPi Hat can be used without the GPS & Meteo Module. Total cost of the DiY pr
 <p align="center"><img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/pcb.png?raw=true" height="300" /></p>
 
 ### Who's it for?
-AstroPi is intended for "Low Cost" Astrophotographer keen to have all the features listed above at a reasonable price (arround 200$ in total versus 200$ minimum for only a good Dew Controller).
+AstroPi is intended for "Low Cost", but experienced astrophotographer keen to have all the features listed above at a reasonable price (arround 200$ in total versus 200$ minimum for only a good Dew Controller). 
+
+<br/>
 
 ## Getting Started
 Before installing all components necessary for AstroPi, please install first Astroberry Server on your Raspberry Pi 4 using [this procedure](https://www.astroberry.io/docs/index.php?title=Astroberry_Server#Installation). Please note that Raspberry Pi 3 can also be used, but will suffer from slowdowns, especially when using high performance software (KStars, etc.) and when using the remote desktop.
@@ -93,11 +100,14 @@ Once installed and Internet available, please follow the following steps in orde
 # sh ./install.sh
 ```
 
+<br/>
+
 ## Pricing
 AstroPi Hat / AstroPi GPS & Meteo modules are both free but DiY projects. Thus, whole project price will depend on the components you will use and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
  - AstroPi Hat Price (including RPi4, Case, Components) : Arround 120$
  - AstroPi Meteo Module (including Case, Components) : Arround 30$
 
+<br/>
 
 ## Contributing
 Your help is always welcome! Feel free to open issues, ask questions, talk about it and discuss this tool.
@@ -112,10 +122,14 @@ If you like Astroberry Server and if it helps you save lots of money, you can do
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?token=-xovcovftZBSZSJc3rG32msWriq9en_IfBzjJSyC9s8TTNoeO5pS98JUdDKB2Wpi4ngiLfNEp_S8OpPH)
 
+<br/>
+
 ## Licensing
  - &copy; Copyright Ludovic COURGNAUD 2021. All Rights Reserved.
  - Permission is granted for personal and Academic use only.
  - Code or portions of code may not be copied or used without appropriate credit given to author.
+
+<br/>
 
 ## Contact
 You can contact me at [ludovic.courgnaud@gmail.com](mailto:ludovic.courgnaud@gmail.com), you may open an issue or contact me through the various social media pages there are: [Twitter](https://twitter.com/x0x1rg9f).
