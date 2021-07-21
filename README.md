@@ -44,7 +44,9 @@
 
 ## About AstroPi
 ### Purpose
-AstroPi is a DiY project, based on [Astroberry Server operating system](https://www.astroberry.io/) and aims to provide different tools for Astronomy and Astrophotography (Dew Controllers, Power Supplies, USB, Network, Remote Access, GPS, Meteo, DSLR Shutter release, ...). The use of Astroberry Server allows you to benefit from all the free software commonly used in astrophotography (INDI Framework, KStars, Cartes du Ciel, FireCapture, PHD2, etc.)
+AstroPi is a DiY project, based on [Astroberry Server operating system](https://www.astroberry.io/) and aims to provide different tools for Astronomy and Astrophotography (Dew Controllers, Power Supplies, USB, Network, Remote Access, GPS, Meteo, DSLR Shutter release, ...). 
+
+The use of Astroberry Server allows you to benefit from all the free software commonly used in astrophotography (INDI Framework, KStars, Cartes du Ciel, FireCapture, PHD2, etc.). However, please note that AstroPi project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. Anyway, I strongly suggest you to use Astroberry Server, as it already provide very useful astrophotography tools.
 
 AstroPi is based on Raspberry Pi 4 and implemented as Raspberry Pi Hat. The whole project is packaged within FR-4 (PCB) enclosures for cost reduction.
 
@@ -54,32 +56,51 @@ AstroPi is composed of two main enclosures :
 
 AstroPi Hat can be used without the GPS & Meteo Module. Total cost of the DiY project is arround 200$ (including Raspberry, cases, components, Sensors & Controllers).
 
-Please note that project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. However, I strongly suggest you to use Astroberry Server, as it already provide interesting astrophotography tools.
-
 ### Features: AstroPi Hat
- - Astroberry Server Operating System (
- - Remote Access via VNC Viewer and / or Browser
- - 4x Automated Dew Controllers with Dew Point sensors (12v - 3A MAX)
- - 2x USB 2.0 inputs
- - 2x USB 3.0 inputs
- - 1x GX-12 12v Power Supply
- - 4x DC 12v Power Supplies
- - DSLR Shutter Release
- - Real Time power consumption monitoring
- - Dark Mode
- - 1x GX-16 10 pins for additional module(s)
+
+<table>
+    <tr>
+        <td width="300px">Astroberry Server Operating System</td>
+        <td width="300px">2x USB 2.0 inputs (Data + 5v - 1A MAX)</td>
+        <td width="300px">DSLR Shutter Release</td>
+    </tr>
+    <tr>
+        <td width="300px">Remote Access via VNC Viewer and / or Browser</td>
+        <td width="300px">2x USB 3.0 inputs (Data + 5v - 1A MAX)</td>
+        <td width="300px">Dark Mode</td>
+    </tr>
+    <tr>
+        <td width="300px">4x Automated Dew Controllers with Dew Point sensors (12v - 3A MAX)</td>
+        <td width="300px">1x GX-12 12v Power Supply</td>
+        <td width="300px">Real Time power consumption monitoring</td>
+    </tr>
+    <tr>
+        <td width="300px"></td>
+        <td width="300px">4x DC 12v Power Supplies</td>
+        <td width="300px">1x GX-16 10 pins for additional module(s)</td>
+    </tr>
+</table>
 
 <p align="center"><img align="center" src="/AstroPi%20Hat/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20Hat/Images/pcb.png?raw=true" height="300" /></p>
 
 ### Features: AstroPi Meteo & GPS Module
- - GPS (Max-M8Q)
- - Rain drops sensor (with buzzer)
- - Humidity sensor
- - Temperature sensor
- - Light sensor
- - Sky Quality sensor
- - Cloud sensor
- - Pressure sensor
+<table>
+    <tr>
+        <td width="300px">GPS (Max-M8Q)</td>
+        <td width="300px">Rain drops sensor (with buzzer)</td>
+        <td width="300px">Humidity sensor</td>
+    </tr>
+    <tr>
+        <td width="300px">Temperature sensor</td>
+        <td width="300px">Light sensor</td>
+        <td width="300px">Sky Quality sensor</td>
+    </tr>
+    <tr>
+        <td width="300px">Cloud sensor</td>
+        <td width="300px">Pressure sensor</td>
+        <td width="300px"></td>
+    </tr>
+</table>
 
 <p align="center"><img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/pcb.png?raw=true" height="300" /></p>
 
@@ -116,11 +137,6 @@ Your help is always welcome! Feel free to open issues, ask questions, talk about
 If you like AstroPi and if it helps you save lots of money, you can donate using the following button. Thank you for considering donating to AstroPi! 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
-
-### Support the development of AstroBerry Server
-If you like Astroberry Server and if it helps you save lots of money, you can donate using the following button. 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?token=-xovcovftZBSZSJc3rG32msWriq9en_IfBzjJSyC9s8TTNoeO5pS98JUdDKB2Wpi4ngiLfNEp_S8OpPH)
 
 <br/>
 
