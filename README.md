@@ -20,17 +20,16 @@
     <a href="https://github.com/X0x1RG9f/astropi/discussions">Ask questions</a>
   </p>
 
-# AstroPi v1 2021
-
 - [Disclaimers](#disclaimers)
 - [About AstroPi](#about-astropi)
   - [Purpose](#purpose)
-  - [Features](#features)
+  - [Features: AstroPi Hat](#features-astropi-hat)
+  - [Features: AstroPi Meteo & GPS Module](#features-astropi-meteo-&-gps-module)
   - [Who's it for?](#whos-it-for)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
   - [Support the development of AstroPi](#support-the-development-of-astropi)
-- [Licensing](#Licensing)
+- [Licensing](#licensing)
 - [Contact](#contact)
 
 
@@ -48,19 +47,8 @@ AstroPi is composed of two main enclosures :
  - AstroPi GPS & Meteo Module (50 x 40 x 35mm)
 
 AstroPi Hat can be used without the GPS & Meteo Module.
-### Features
 
-### Who's it for?
-
-
-## Getting Started
-
-
-## Contributing
-### Support the development of AstroPi
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
-
-## Functionalities: AstroPi Hat
+### Features: AstroPi Hat
  - Operating System (Astroberry / Raspberry Pi 4) / Remote Access via VNC Viewer
  - 4x Automated Dew Controllers / Dew Point sensors (12v - 3A MAX)
  - 2x USB 2.0 inputs / 2x USB 3.0 inputs
@@ -73,8 +61,7 @@ AstroPi Hat can be used without the GPS & Meteo Module.
 
 <p align="center"><img align="center" src="/AstroPi%20Hat/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20Hat/Images/pcb.png?raw=true" height="300" /></p>
 
-
-## Functionalities: AstroPi Meteo & GPS Module
+### Features: AstroPi Meteo & GPS Module
  - GPS (Max-M8Q)
  - Rain drops sensor (with buzzer)
  - Humidity sensor
@@ -85,6 +72,16 @@ AstroPi Hat can be used without the GPS & Meteo Module.
  - Pressure sensor
 
 <p align="center"><img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/pcb.png?raw=true" height="300" /></p>
+
+### Who's it for?
+
+
+## Getting Started
+
+
+## Contributing
+### Support the development of AstroPi
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
 
 ## Licensing
  - &copy; Copyright Ludovic COURGNAUD 2021. All Rights Reserved.
