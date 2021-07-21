@@ -6,23 +6,18 @@
 <br />
 <p align="center">
   <a href="https://firefly-iii.org/">
-    <img src="/AstroPi%20Hat/Images/saturn.png?raw=true" alt="AstroPi" height="200">
+    <img src="/AstroPi%20Hat/Images/saturn.png?raw=true" alt="AstroPi" height="150">
   </a>
 </p>
   <h1 align="center">AstroPi (V1, 2021)</h1>
   <p align="center">
-    A free and open source personal finance manager
+    A free and open source Astrophotography & Meteo solution
     <br />
-    <a href="https://docs.firefly-iii.org/"><strong>Explore the documentation</strong></a>
-    <br />
-    <br />
-    <a href="https://demo.firefly-iii.org/">View the demo</a>
+    <a href="https://github.com/X0x1RG9f/astropi/issues">Report a bug</a>
     ·
-    <a href="https://github.com/firefly-iii/firefly-iii/issues">Report a bug</a>
+    <a href="https://github.com/X0x1RG9f/astropi/issues">Request a feature</a>
     ·
-    <a href="https://github.com/firefly-iii/firefly-iii/issues">Request a feature</a>
-    ·
-    <a href="https://github.com/firefly-iii/firefly-iii/discussions">Ask questions</a>
+    <a href="https://github.com/X0x1RG9f/astropi/discussions">Ask questions</a>
   </p>
 
 # AstroPi v1 2021
