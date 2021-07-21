@@ -1,5 +1,14 @@
 # AstroPi v1 2021
 
+## Description
+AstroPi is a DiY project and aims to provide different tools for astronomy (Dew Controllers, Power Supplies, USB, Network, Remote Access, GPS, Meteo, DSLR Shutter release, etc.), implemented as Raspberry Pi 4 Hat, under Astroberry (https://www.astroberry.io/) operating system. The whole project is packaged within FR-4 (PCB) enclosures for cost reduction.
+
+AstroPi is composed of two main enclosures :
+ - Raspberry Pi + AstroPi Hat (110 x 130 x 40mm)
+ - AstroPi GPS & Meteo Module (50 x 40 x 35mm)
+
+AstroPi Hat can be used without the GPS & Meteo Module.
+
 ## Disclaimers
  - <strong style="color: red;">Date of 06.07.2021, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong>
  - Dew Controllers & Meteo modules are largely inspired by Robert Brown Projects (https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, SMD electronics, Web App, etc.)
@@ -10,14 +19,8 @@
  - Permission is granted for personal and Academic use only.
  - Code or portions of code may not be copied or used without appropriate credit given to author.
 
-## General Information
-AstroPi is a DiY project and aims to provide different tools for astronomy (Dew Controllers, Power Supplies, USB, Network, Remote Access, GPS, Meteo, DSLR Shutter release, etc.), implemented as Raspberry Pi 4 Hat, under Astroberry (https://www.astroberry.io/) operating system. The whole project is packaged within FR-4 (PCB) enclosures for cost reduction.
-
-AstroPi is composed of two main enclosures :
- - Raspberry Pi + AstroPi Hat (110 x 130 x 40mm)
- - AstroPi GPS & Meteo Module (50 x 40 x 35mm)
-
-AstroPi Hat can be used without the GPS & Meteo Module.
+## Donations
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
 
 ## Functionalities: AstroPi Hat
  - Operating System (Astroberry / Raspberry Pi 4) / Remote Access via VNC Viewer
