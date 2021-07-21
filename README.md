@@ -104,10 +104,12 @@ Your help is always welcome! Feel free to open issues, ask questions, talk about
 
 ### Support the development of AstroPi
 If you like AstroPi and if it helps you save lots of money, you can donate using the following button. Thank you for considering donating to AstroPi! 
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
 
 ### Support the development of AstroBerry Server
 If you like Astroberry Server and if it helps you save lots of money, you can donate using the following button. 
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?token=-xovcovftZBSZSJc3rG32msWriq9en_IfBzjJSyC9s8TTNoeO5pS98JUdDKB2Wpi4ngiLfNEp_S8OpPH)
 
 ## Licensing
