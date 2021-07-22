@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://firefly-iii.org/">
+  <a href="https://github.com/X0x1RG9f/astropi/">
     <img src="/AstroPi%20Hat/Images/saturn.png?raw=true" alt="AstroPi" height="150">
   </a>
 </p>
