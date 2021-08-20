@@ -13,6 +13,9 @@
 </p>
   <h1 align="center">AstroPi (v1, 2021)</h1>
   <p align="center">
+<a href="https://github.com/X0x1RG9f/astropi/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/1200px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" height="15"></a>
+<a href="https://github.com/X0x1RG9f/astropi/wiki/home-[fr]"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" alt="" height="15"></a>
+    <br />
     A free "Do it Yourself (DiY)" Astrophotography, GPS & Meteo solution
     <br />
     <a href="https://github.com/X0x1RG9f/astropi/issues">Report a bug</a>
