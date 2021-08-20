@@ -39,7 +39,7 @@
 
 ## Disclaimers
  - <strong style="color: red;">Date of 20.08.2021, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong>
- - Dew Controllers part of my projet is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
+ - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts!
 
