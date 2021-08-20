@@ -11,7 +11,9 @@
     <img src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/saturn.png?raw=true" alt="AstroPi" height="150">
   </a>
 </p>
-  <h1 align="center">AstroPi (v1, 2021)</h1>
+  <h1 align="center">AstroPi (v1, 2021) <br/>
+<a href="https://github.com/X0x1RG9f/astropi/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/1200px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" height="15"></a>
+<a href="https://github.com/X0x1RG9f/astropi/wiki/home-[fr]"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" alt="" height="15"></a></h1>
   <p align="center">
     A free "Do it Yourself (DiY)" Astrophotography, GPS & Meteo solution
     <br />
@@ -41,7 +43,7 @@
  - <strong style="color: red;">Date of 20.08.2021, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong>
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
- - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts!
+ - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask! My english is not perfect (and my french neither)!
 
 <br/>
 
