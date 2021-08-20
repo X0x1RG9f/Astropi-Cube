@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/X0x1RG9f/astropi/">
-    <img src="/AstroPi%20Hat/Images/saturn.png?raw=true" alt="AstroPi" height="150">
+    <img src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/saturn.png?raw=true" alt="AstroPi" height="150">
   </a>
 </p>
   <h1 align="center">AstroPi (v1, 2021)</h1>
@@ -39,7 +39,7 @@
 
 ## Disclaimers
  - <strong style="color: red;">Date of 20.08.2021, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong>
- - Dew Controllers part of my projet is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
+ - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.)
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts!
 
@@ -78,7 +78,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     </tr>
 </table>
 
-<p align="center"><img align="center" src="/AstroPi%20Hat/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20Hat/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/pcb.png?raw=true" height="300" /></p>
 
 ### Features: AstroPi Meteo & GPS Module
 <table>
@@ -99,7 +99,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     </tr>
 </table>
 
-<p align="center"><img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi Module - Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi Module - Meteo/Images/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 
@@ -111,9 +111,9 @@ Please refer to Wiki Software Installation section in order to know how to insta
 <br/>
 
 ## Pricing
-AstroPi Hat / AstroPi GPS & Meteo modules are both "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
- - AstroPi Hat Price (including RPi4, Case, Components) : Arround 175$ (without options)
- - AstroPi Meteo Module (including Case, Components) : Arround 45$ (without options)
+AstroPi Hat / AstroPi Modules are all "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
+ - AstroPi Hat (including RPi4, Case, Components) : From 175$ (without options)
+ - AstroPi Meteo Module (including Case, Components) : From 45$ (without options)
 
 Please see the Wiki Price section in order to know real price of the project regarding options you will chose. Optional components refers to components that are not needed for the whole project to work and that can be added in the future.
 
