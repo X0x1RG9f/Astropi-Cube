@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/X0x1RG9f/astropi/">
-    <img src="/AstroPi%20Hat/Images/saturn.png?raw=true" alt="AstroPi" height="150">
+    <img src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/saturn.png?raw=true" alt="AstroPi" height="150">
   </a>
 </p>
   <h1 align="center">AstroPi (v1, 2021)</h1>
@@ -78,7 +78,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     </tr>
 </table>
 
-<p align="center"><img align="center" src="/AstroPi%20Hat/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20Hat/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/pcb.png?raw=true" height="300" /></p>
 
 ### Features: AstroPi Meteo & GPS Module
 <table>
@@ -99,7 +99,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     </tr>
 </table>
 
-<p align="center"><img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="/AstroPi%20GPS%20&%20Meteo/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi Module - Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi Module - Meteo/Images/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 
