@@ -111,9 +111,9 @@ Please refer to Wiki Software Installation section in order to know how to insta
 <br/>
 
 ## Pricing
-AstroPi Hat / AstroPi GPS & Meteo modules are both "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
- - AstroPi Hat Price (including RPi4, Case, Components) : Around 175$ (without options)
- - AstroPi Meteo Module (including Case, Components) : Around 45$ (without options)
+AstroPi Hat / AstroPi Modules are all "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
+ - AstroPi Hat Price (including RPi4, Case, Components) : From 175$ (without options)
+ - AstroPi Meteo Module (including Case, Components) : From 45$ (without options)
 
 Please see the Wiki Price section in order to know real price of the project regarding options you will chose. Optional components refers to components that are not needed for the whole project to work and that can be added in the future.
 
