@@ -1,0 +1,146 @@
+upstream novnc {
+    server 127.0.0.1:8080;
+}
+
+upstream indiwebmanager {
+    server 127.0.0.1:8624;
+}
+
+upstream gpspanel {
+    server 127.0.0.1:8625;
+}
+
+upstream astropanel {
+    server 127.0.0.1:8626;
+}
+
+server {
+    listen 80;
+
+    root /var/www/html;
+
+    index index.html index.php;
+    error_page 404 /404.html;
+    error_page 500 502 503 504 /500.html;
+
+    server_name _;
+
+    location / {
+       try_files $uri $uri/ =404;
+    }
+
+    ########### noVNC block ##########
+
+    location /desktop/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://novnc/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    location /websockify {
+       proxy_http_version 1.1;
+       proxy_pass http://novnc/;
+       proxy_set_header Upgrade $http_upgrade;
+       proxy_set_header Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    ########### INDI webmanager block ########## 
+
+    location /indiwebmanager/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://indiwebmanager/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout  90;
+       proxy_buffering     off;
+    }
+
+    location /static/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://indiwebmanager/static/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    location /api/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://indiwebmanager/api/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    ########### GPS panel block ########## 
+
+    location /gpspanel/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://gpspanel/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout  90;
+       proxy_buffering     off;
+    }
+
+    location /gpspanel/assets/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://gpspanel/assets/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    location /gpspanel/socket.io/ {
+      proxy_http_version  1.1;
+      proxy_pass          http://gpspanel/socket.io/;
+      proxy_set_header    Upgrade $http_upgrade;
+      proxy_set_header    Connection "upgrade";
+      proxy_read_timeout  90;
+      proxy_buffering     off;
+    }
+
+    ########### Astro panel block ########## 
+
+    location /astropanel/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://astropanel/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout  90;
+       proxy_buffering     off;
+    }
+
+    location /astropanel/assets/ {
+       proxy_http_version  1.1;
+       proxy_pass          http://astropanel/assets/;
+       proxy_set_header    Upgrade $http_upgrade;
+       proxy_set_header    Connection "upgrade";
+       proxy_read_timeout 90;
+       proxy_buffering off;
+    }
+
+    location /astropanel/socket.io/ {
+      proxy_http_version  1.1;
+      proxy_pass          http://astropanel/socket.io/;
+      proxy_set_header    Upgrade $http_upgrade;
+      proxy_set_header    Connection "upgrade";
+      proxy_read_timeout  90;
+      proxy_buffering     off;
+    }
+
+location ~ \.php$ {
+        try_files $uri =404;
+        fastcgi_pass unix:/var/run/php/php7.3-fpm.sock;
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+}
