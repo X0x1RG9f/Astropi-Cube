@@ -55,7 +55,7 @@
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.).
  - <strong>Please read carefully disclamers included in the [PCB Soldering](https://github.com/X0x1RG9f/astropi/wiki/soldering) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
- - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask! My english is not perfect (and my french neither)!
+ - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask before starting! My english is not perfect (and my french neither)!
 
 <br/>
 <br/>
@@ -66,7 +66,7 @@ AstroPi is a DiY project aiming to provide different tools for Astronomy and Ast
 
 The use of Astroberry Server allows you to benefit from all the free software commonly used in astrophotography (INDI Framework, KStars, Cartes du Ciel, FireCapture, PHD2, etc.). However, please note that AstroPi project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. Anyway, I strongly suggest you to use Astroberry Server, as it already provide very useful astrophotography tools. Some installation configuration could be necessary.
 
-The project aims to be scalable by providing the possibility of adding optional and unlimited modules (GX-7 connectors). For now, there is two modules implemented:
+The project aims to be scalable by providing the possibility of adding optional and unlimited modules (GX12-7 connectors). For now, there is two modules implemented:
  - Focuser Module
  - AstroPi Meteo Module (50 x 40 x 35mm)
 
@@ -88,11 +88,11 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     <tr>
         <td width="300px">Battery Mode</td>
         <td width="300px">4x Smart Dew Heaters with Dew Point Sensors (12v - 2A MAX)</td>
-        <td width="300px">3x GX-7 connectors for additional module(s)</td>
+        <td width="300px">3x 12-7 connectors for additional module(s)</td>
     </tr>
     <tr>
         <td width="300px">2x USB 2.0 inputs <br/>2x USB 3.0 inputs</td>
-        <td width="300px">1x GX-12 12v Power Supply <br />4x DC 12v Power Supplies</td>
+        <td width="300px">1x GX12-2 12v Power Supply <br />4x DC 12v Power Supplies</td>
         <td width="300px">Real Time power consumption monitoring</td>
     </tr>
 </table>
