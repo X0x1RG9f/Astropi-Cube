@@ -22,7 +22,7 @@
   <p align="center">
     A free "Do it Yourself (DiY)" Astrophotography solution
     <br/>
-    (GPS, Meteo Station, Sky Quality Meter, Focuser, etc.)
+    (Focuser, Meteo Station, Sky Quality Meter, GPS, etc.)
     <br />
     <a href="https://github.com/X0x1RG9f/astropi/issues">Report a bug</a>
     ·
@@ -54,10 +54,7 @@
  - <strong>Date of 28.08.2023, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong> First official release is planed on September 2023.
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.).
- - <strong> As I did, you will probably purchase lot of electronics on Aliexpress. If so (and even if not), I encourage you to test every device you buy (GPS, sensors, MOSFET, etc.) to ensure they are working properly BEFORE soldering them on the board.</strong> Space for soldering is not that big, and having to unsolder a 4/5 pins component is quite a hard job... Female pin headers can also be used for some components (GPS, Accelerometer, etc.).
- - There is not a lot of free space in the main case. I encourage you to use the smaller wires possible for the current needed:
-   - 20AWG for Dew Controllers & Powers inputs / outputs
-   - 22/24 AWG for modules and GX-7 connectors. Note that soldering the GX-7 wires is the trickiest part: I used 20AWG wires and that was... quite hard. Then build GX-7 to GX-Y cables: Y according to the maximum module wires. No need to use GX-7 each time on the module side, because they are harder to deal with.
+ - <strong>Please read carefully disclamers included in the [PCB Soldering](https://github.com/X0x1RG9f/astropi/wiki/soldering) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask! My english is not perfect (and my french neither)!
 
 <br/>
