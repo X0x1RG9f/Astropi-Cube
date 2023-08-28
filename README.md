@@ -1,9 +1,14 @@
+<div align="center">
+  
 [![Last Release][release-shield]][release-url]
 [![Issues][issues-shield]][issues-url]
 [![Stars][stars-shield]][stars-url]
 [![Donate][donate-shield]][donate-url]
 [![Watchers][watchers-shield]][stars-url]
 [![Instagram][insta-shield]][insta-url]
+[![Wiki][wiki-shield]][wiki-url]
+
+</div>
 
 <br />
 <p align="center">
@@ -24,6 +29,8 @@
     <a href="https://github.com/X0x1RG9f/astropi/issues">Request a feature</a>
     ·
     <a href="https://github.com/X0x1RG9f/astropi/discussions">Ask questions</a>
+    .
+    <a href="https://github.com/X0x1RG9f/astropi/wiki">Documentation</a>
   </p>
 
 - [Disclaimers](#disclaimers)
@@ -181,5 +188,8 @@ You can contact me at [ludovic.courgnaud@gmail.com](mailto:ludovic.courgnaud@gma
 [donate-shield]: https://img.shields.io/badge/donate-%24%20%E2%82%AC-brightgreen?style=plastic
 [donate-url]: #support-the-development-of-astropi
 [watchers-shield]:https://img.shields.io/github/watchers/X0x1RG9f/astropi?style=plastic
-[insta-shield]:https://img.shields.io/badge/Instagram-Follow%20Me!-red?style=plastic
-[insta-url]:https://www.instagram.com/ludoastro/
+[insta-shield]:https://img.shields.io/badge/Instagram-Follow%20Me!-red?style=plastic&logo=instagram
+[insta-url]:https://www.instagram.com/astroludo/
+[wiki-shield]:https://img.shields.io/badge/Wiki-Wiki-Blue?style=plastic&logo=wikipedia
+[wiki-url]:https://github.com/X0x1RG9f/astropi/wiki
+
