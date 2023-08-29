@@ -97,7 +97,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/pcb_front.png?raw=true" height="300" /></p>
 
 ### Module 1: Focuser
 <table>
