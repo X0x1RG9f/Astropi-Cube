@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 [![Last Release][release-shield]][release-url]
 [![Issues][issues-shield]][issues-url]
 [![Stars][stars-shield]][stars-url]
@@ -97,7 +97,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
 
 ## Module 1: Focuser
 <table>
@@ -108,7 +108,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/PCB/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 
@@ -131,7 +131,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/PCB/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 <br/>
@@ -162,7 +162,9 @@ Your help is always welcome! Feel free to open issues, ask questions, talk about
 If you like AstroPi Cube and if it helps you save lots of money, you can donate using the following button. Thank you for considering donating to AstroPi Cube! 
 
 <div align="center">
+  
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
+
 </div>
 <br/>
 <br/>
