@@ -50,18 +50,18 @@
 
 <br/>
 
-## Disclaimers
+# Disclaimers
  - <strong>Date of 28.08.2023, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong> First official release is planed on September 2023.
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.).
- - <strong>Please read carefully disclamers included in the [PCB Soldering](https://github.com/X0x1RG9f/astropi/wiki/soldering) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
+ - <strong>Please read carefully disclamers included in the [PCB Soldering](https://github.com/X0x1RG9f/astropi/wiki/disclaimers) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask before starting! My english is not perfect (and my french neither)!
 
 <br/>
 <br/>
 
-## About AstroPi
-### Purpose
+# About AstroPi
+## Purpose
 AstroPi is a DiY project aiming to provide different tools for Astronomy and Astrophotography (Dew Controllers, Power Supplies, USB, Network, Remote Access, GPS, Meteo, DSLR Shutter release, etc.). It is based on Raspberry Pi 4 (hat format) and on well known [Astroberry Server operating system](https://www.astroberry.io/). The whole project is packaged within FR-4 (PCB) enclosures (for cost reduction) and composed of one main enclosure (110 x 130 x 40mm).
 
 The use of Astroberry Server allows you to benefit from all the free software commonly used in astrophotography (INDI Framework, KStars, Cartes du Ciel, FireCapture, PHD2, etc.). However, please note that AstroPi project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. Anyway, I strongly suggest you to use Astroberry Server, as it already provide very useful astrophotography tools. Some installation configuration could be necessary.
@@ -70,14 +70,14 @@ The project aims to be scalable by providing the possibility of adding optional 
  - Focuser Module
  - AstroPi Meteo Module (50 x 40 x 35mm)
 
-### Who's it for?
+## Who's it for?
 AstroPi is intended for "Low Cost", but experienced astrophotographer and electronicians keen to have all the features listed above at a reasonable price (arround $175 without options) in total versus >= $200 for a good Dew Controller only. 
 
 <br/>
 <br/>
 
-## Features
-### AstroPi Hat
+# Features
+## AstroPi Hat
 
 <table>
     <tr>
@@ -99,7 +99,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
 
 <p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi/blob/main/AstroPi/Images/pcb_front.png?raw=true" height="300" /></p>
 
-### Module 1: Focuser
+## Module 1: Focuser
 <table>
     <tr>
         <td width="300px">Move backward or forward</td>
@@ -112,7 +112,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
 
 <br/>
 
-### Module 2: Meteo & GPS
+## Module 2: Meteo & GPS
 <table>
     <tr>
         <td width="300px">Rain Drops Sensor (with buzzer)</td>
@@ -136,7 +136,7 @@ AstroPi is intended for "Low Cost", but experienced astrophotographer and electr
 <br/>
 <br/>
 
-## Getting Started
+# Getting Started
 Before begining the projet, I suggest you to read the entire Wiki to understand how things works globally, if you have capabilities of building the project (soldering, mounting, etc.). If you have any doubt, feel free to ask, I'll be glad to help!
 
 Please refer to Wiki PCB Soldering / Mounting sections in order to know how to perform the electronic part of the project!
@@ -144,7 +144,7 @@ Please refer to Wiki Software Installation section in order to know how to insta
 <br/>
 <br/>
 
-## Pricing
+# Pricing
 AstroPi Hat / AstroPi Modules are all "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
  - AstroPi Hat (including RPi4, Case, Components) : From 175$ (without options)
  - AstroPi Meteo Module (including Case, Components) : From 45$ (without options)
@@ -154,10 +154,10 @@ Please see the Wiki Price section in order to know real price of the project reg
 <br/>
 <br/>
 
-## Contributing
+# Contributing
 Your help is always welcome! Feel free to open issues, ask questions, talk about it and discuss this tool.
 
-### Support the development of AstroPi
+## Support the development of AstroPi
 If you like AstroPi and if it helps you save lots of money, you can donate using the following button. Thank you for considering donating to AstroPi! 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
@@ -165,7 +165,7 @@ If you like AstroPi and if it helps you save lots of money, you can donate using
 <br/>
 <br/>
 
-## Licensing
+# Licensing
  - &copy; Copyright Ludovic COURGNAUD 2021. All Rights Reserved.
  - Permission is granted for personal and Academic use only.
  - Code or portions of code may not be copied or used without appropriate credit given to author.
@@ -173,7 +173,7 @@ If you like AstroPi and if it helps you save lots of money, you can donate using
 <br/>
 <br/>
 
-## Contact
+# Contact
 You can contact me at [ludovic.courgnaud@gmail.com](mailto:ludovic.courgnaud@gmail.com), you may open an issue or contact me through the various social media pages there are: [Twitter](https://twitter.com/x0x1rg9f).
 
 [release-shield]: https://img.shields.io/github/last-commit/X0x1RG9f/astropi?style=plastic
