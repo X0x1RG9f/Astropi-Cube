@@ -54,7 +54,7 @@
  - <strong>Date of 28.08.2023, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong> First official release is planed on September 2023.
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.).
- - <strong>Please read carefully disclamers included in the [PCB Soldering](https://github.com/X0x1RG9f/astropi/wiki/disclaimers) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
+ - <strong>Please read carefully disclamers included in the [PCB Disclaimers](https://github.com/X0x1RG9f/astropi/wiki/disclaimers) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask before starting! My english is not perfect (and my french neither)!
 
 <br/>
