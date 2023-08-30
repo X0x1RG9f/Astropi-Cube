@@ -161,8 +161,9 @@ Your help is always welcome! Feel free to open issues, ask questions, talk about
 ## Support the development of AstroPi Cube
 If you like AstroPi Cube and if it helps you save lots of money, you can donate using the following button. Thank you for considering donating to AstroPi Cube! 
 
+<div align="center">
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=S8L7CRH3CVYDG&no_recurring=0&currency_code=EUR)
-
+</div>
 <br/>
 <br/>
 
