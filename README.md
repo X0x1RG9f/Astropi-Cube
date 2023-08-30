@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/X0x1RG9f/astropi-cube/">
-    <img src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi/Images/saturn.png?raw=true" alt="AstroPi Cube" height="150">
+    <img src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/saturn.png?raw=true" alt="AstroPi Cube" height="150">
   </a>
 </p>
   <h1 align="center">AstroPi Cube (v1, 2021) <br/>
@@ -54,7 +54,7 @@
  - <strong>Date of 28.08.2023, project is still under construction and being electronically tested. Please do not use it if this disclaimer is written!</strong> First official release is planed on September 2023.
  - I am neither an electronician nor an astronomist. This is my first electronic project, being used with my SkyWatcher EQ6-R Pro & PDS 200/1000. All your commentaries and improvements about electronics (or code) will be, of course, very welcome!
  - Dew Controllers part of my project is largely inspired by [Robert Brown Projects](https://sourceforge.net/projects/esp32-dew-controller/). However, code and implementation are fully different (Raspberry Pi 4, Remote Access, SMD electronics, Web App, etc.).
- - <strong>Please read carefully disclamers included in the [PCB Disclaimers](https://github.com/X0x1RG9f/astropi-cube/wiki/disclaimers) section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
+ - <strong>Please read carefully disclamers included in the [PCB Disclaimers](https://github.com/X0x1RG9f/astropi-cube/wiki/disclaimers) and [List of Don'ts](https://github.com/X0x1RG9f/astropi-cube/wiki/List-of-Don'ts)section before anything.</strong> Soldering is not that easy (SMD, few space) and you will need skills and patience!
  - Wiki is very complete and with up-to-date information. Please read it entirely before starting the project or if you have any doubts! If you don't understand something, feel free to ask before starting! My english is not perfect (and my french neither)!
 
 <br/>
@@ -97,7 +97,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi/Images/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/pcb_front.png?raw=true" height="300" /></p>
 
 ## Module 1: Focuser
 <table>
@@ -108,7 +108,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Module - Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Module - Meteo/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 
@@ -131,7 +131,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Module - Meteo/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Module - Meteo/Images/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/pcb.png?raw=true" height="300" /></p>
 
 <br/>
 <br/>
