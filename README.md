@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/X0x1RG9f/astropi-cube/">
-    <img src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Others/saturn.png?raw=true" alt="AstroPi Cube" height="150">
+    <img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" height="350" alt="AstroPi Cube"/>
   </a>
 </p>
   <h1 align="center">AstroPi Cube (v1, 2021) <br/>
