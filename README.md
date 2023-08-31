@@ -97,7 +97,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Enclosure/enclosure.png?raw=true" height="400" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
 
 ## Module 1: Focuser
 <table>
@@ -108,7 +108,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/PCB/pcb_front.png?raw=true" height="200" /></p>
 
 <br/>
 
@@ -131,7 +131,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/PCB/pcb_front.png?raw=true" height="200" /></p>
 
 <br/>
 <br/>
