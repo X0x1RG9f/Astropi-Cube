@@ -16,7 +16,7 @@
     <img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" width="50%" alt="AstroPi Cube"/>
   </a>
 </p>
-  <h1 align="center">AstroPi Cube (v1, 2021) <br/>
+  <h1 align="center">AstroPi Cube<br/>
 <a href="https://github.com/X0x1RG9f/astropi-cube/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/1200px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" height="15"></a>
 <a href="https://github.com/X0x1RG9f/astropi-cube/wiki/home-[fr]"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" alt="" height="15"></a></h1>
   <p align="center">
