@@ -13,10 +13,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/X0x1RG9f/astropi-cube/">
-    <img src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Others/saturn.png?raw=true" alt="AstroPi Cube" height="150">
+    <img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" width="50%" alt="AstroPi Cube"/>
   </a>
 </p>
-  <h1 align="center">AstroPi Cube (v1, 2021) <br/>
+  <h1 align="center">AstroPi Cube<br/>
 <a href="https://github.com/X0x1RG9f/astropi-cube/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/1200px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" height="15"></a>
 <a href="https://github.com/X0x1RG9f/astropi-cube/wiki/home-[fr]"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" alt="" height="15"></a></h1>
   <p align="center">
@@ -40,7 +40,7 @@
 - [Features](#features)
   - [AstroPi Cube](#astropi-cube)
   - [Module 1: Focuser](#module-1-focuser)
-  - [Module 2: Meteo & GPS Module](#module-2-meteo--gps)
+  - [Module 2: Sky Quality](#module-2-sky-quality)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
 - [Contributing](#contributing)
@@ -67,8 +67,8 @@ AstroPi Cube is a DiY project aiming to provide different tools for Astronomy an
 The use of Astroberry Server allows you to benefit from all the free software commonly used in astrophotography (INDI Framework, KStars, Cartes du Ciel, FireCapture, PHD2, etc.). However, please note that AstroPi Cube project is not dependant from AstroBerry Server and can also be installed with Raspbian or any other Raspberry Pi distribution. Anyway, I strongly suggest you to use Astroberry Server, as it already provide very useful astrophotography tools. Some installation configuration could be necessary.
 
 The project aims to be scalable by providing the possibility of adding optional and unlimited modules (GX12-7 connectors). For now, there is two modules implemented:
- - Focuser
- - Meteo & GPS (50 x 40 x 35mm)
+ - Module - Focuser (55 x 55 x 70mm)
+ - [IN PROGRESS - Coding...] Module - Sky Quality (50 x 40 x 35mm)
 
 ## Who's it for?
 AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and electronicians keen to have all the features listed above at a reasonable price (arround $175 without options) in total versus >= $200 for a good Dew Controller only. 
@@ -97,7 +97,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/Enclosure/enclosure.png?raw=true" width="35%" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/AstroPi Cube/Images/PCB/pcb_front.png?raw=true" width="40%" /></p>
 
 ## Module 1: Focuser
 <table>
@@ -108,11 +108,11 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/PCB/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/Enclosure/enclosure.png?raw=true" width="38.3%" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 1 - Focuser/Images/PCB/pcb_front.png?raw=true" width="20%" /></p>
 
 <br/>
 
-## Module 2: Meteo & GPS
+## Module 2: Sky Quality
 <table>
     <tr>
         <td width="300px">Rain Drops Sensor (with buzzer)</td>
@@ -131,7 +131,7 @@ AstroPi Cube is intended for "Low Cost", but experienced astrophotographer and e
     </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/Enclosure/enclosure.png?raw=true" height="300" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Meteo %26 GPS/Images/PCB/pcb.png?raw=true" height="300" /></p>
+<p align="center"><img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/Enclosure/enclosure.png?raw=true" width="40%" />&nbsp;<img align="center" src="https://github.com/X0x1RG9f/astropi-cube/blob/main/Module 2 - Sky Quality/Images/PCB/pcb_front.png?raw=true" width="22.7%" /></p>
 
 <br/>
 <br/>
@@ -148,7 +148,7 @@ Please refer to Wiki Software Installation section in order to know how to insta
 AstroPi Cube / AstroPi Modules are all "free" but DiY projects. Thus, whole project price will depend on the components you will use, options you will choose and equipments you already have. For the following price estimates, I consider that you already own all equipments used for soldering :
  - AstroPi Cube (including RPi4, Case, Components) : From 175$ (without options)
  - Module 1: Focuser (including Case, Components) : About 45$
- - Module 2: Meteo & GPS (including Case, Components) : From 45$ (without options)
+ - Module 2: Sky Quality (including Case, Components) : From 45$ (without options)
 
 Please see the Wiki Price section in order to know real price of the project regarding options you will chose. Optional components refers to components that are not needed for the whole project to work and that can be added in the future.
 
