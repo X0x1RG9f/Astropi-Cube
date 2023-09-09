@@ -7,13 +7,13 @@ import re
 import sys
 import math
 from threading import Thread
-sys.path.append('/opt/astropi/scripts/database')
+sys.path.append('/opt/astropi-cube/scripts/database')
 import database
 import RPi.GPIO as GPIO
 import signal
 
 # Pins definitions
-PINS 		= [1, 7, 4, 0]
+PINS 		= [24,23,4,22]
 
 # Set up pins
 #GPIO.setwarnings(False)
@@ -34,7 +34,7 @@ def get_temperature(pin,pos):
 	global active
 
 	try:
-		a = os.popen('/opt/astropi/DS18B20/DS18B20Scan -gpio ' + str(pin) + ' -12bits')
+		a = os.popen('/opt/astropi-cube/DS18B20/DS18B20Scan -gpio ' + str(pin) + ' -12bits')
 		x = re.search(r".*Temperature:\s*(\d*\.\d*)", a.read())
 		if (x.groups()[0] != None):
 			data[pos] = x.groups()[0]

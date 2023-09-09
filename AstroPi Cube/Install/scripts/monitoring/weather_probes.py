@@ -7,7 +7,7 @@ import re
 import sys
 import math
 from threading import Thread
-sys.path.append('/opt/astropi/scripts/database')
+sys.path.append('/opt/astropi-cube/scripts/database')
 import database
 import RPi.GPIO as GPIO
 import signal

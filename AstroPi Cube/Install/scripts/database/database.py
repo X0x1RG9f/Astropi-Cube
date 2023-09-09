@@ -42,7 +42,7 @@ def insert(table, data):
 		'dew':		["module_status", "dh1_probe", "dh1_pwr", "dh1_mode", "dh2_probe", "dh2_pwr", "dh2_mode", "dh3_probe", "dh3_pwr", "dh3_mode", "dh4_probe", "dh4_pwr", "dh4_mode"],
 		'gps':		["module_status", "latitude", "longitude"],
 		'weather':	["gps_id", "module_status", "gnd_temperature", "sky_temperature", "gnd_pressure", "gnd_humidity", "is_light", "light_frequency", "sky_quality", "dew_point", "frz_point"],
-		'power':	["rpi", "dh1", "dh2", "dh3", "dh4", "out1", "out2", "out3", "out4", "out5", "total"],
+		'power':	["shutdown", "rpi", "dh1", "dh2", "dh3", "dh4", "oth", "voltage", "out1", "out2", "out3", "out4", "out5", "led1", "led2", "led3", "total"],
 		'mode':		["dark", "silent"]
            }
 

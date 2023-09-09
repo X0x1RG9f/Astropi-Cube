@@ -1,7 +1,7 @@
 import time
 import RPi.GPIO as GPIO
 import sys
-sys.path.append('/opt/astropi/scripts/database')
+sys.path.append('/opt/astropi-cube/scripts/database')
 import database
 import signal
 
