@@ -56,6 +56,7 @@ sudo /usr/bin/mysql -uroot < /opt/astropi-cube/config/mysql.file
 ####################################
 #          STARTUP CONFIG          #
 ####################################
+sudo chmod 755 ./Astropi-Cube/AstroPi\ Cube/Install/scripts/startup/astropicube.sh
 sudo cp ./Astropi-Cube/AstroPi\ Cube/Install/scripts/startup/astropicube.service /etc/systemd/system/
 /bin/systemctl enable astropicube.service
 

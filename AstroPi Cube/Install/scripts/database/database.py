@@ -4,7 +4,7 @@ import os
 def create_connection():
     cnx = None
     try:
-        cnx = mysql.connector.connect(user='astropi', password='@str0pi', host='localhost', database='astropi') 
+        cnx = mysql.connector.connect(user='astropicube', password='@str0picuB3', host='localhost', database='astropicube') 
         return cnx
     except:
         print("Database Error")

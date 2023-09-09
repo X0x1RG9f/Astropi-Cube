@@ -1,6 +1,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AstroPi (&#169; L. COURGNAUD)</title>
+  <title>AstroPi Cube (&#169; L. COURGNAUD)</title>
 
   <link rel="shortcut icon" href="dist/img/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" sizes="180x180" href="dist/img/apple-touch-icon.png">

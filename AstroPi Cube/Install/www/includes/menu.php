@@ -56,9 +56,9 @@
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="index3.html" class="brand-link">
-      <img src="dist/img/saturn.png" alt="AstroPi" width="30px" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">AstroPi</span>
+    <a href="index.php" class="brand-link">
+      <img src="dist/img/saturn.png" alt="AstroPi Cube" width="30px" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">AstroPi Cube</span>
     </a>
     <!-- Sidebar -->
     <div class="sidebar">
@@ -89,10 +89,10 @@
             </a>
           </li>
           <li class="nav-item">
-            <a id="menu2" href="astropi.php" class="nav-link">
+            <a id="menu2" href="astropicube.php" class="nav-link">
               <i class="nav-icon fab fa-raspberry-pi"></i>
               <p>
-                AstroPi Hat
+                AstroPi Cube
               </p>
               <span id="badge-hot" class=""></span>
             </a>
@@ -175,7 +175,7 @@
             <a id="menu6" href="#" class="nav-link">
               <i class="nav-icon fas fa-puzzle-piece"></i>
               <p>
-                AstroPi Modules
+                 Modules
                 <i class="fas fa-angle-left right"></i>
                 <span class="badge badge-info right">0</span>
               </p>
@@ -185,14 +185,14 @@
                 <a id="menu6.1" href="#" class="nav-link">
                   <i class="fas fa-compass nav-icon"></i>
                   <span class="badge badge-danger right">0</span>
-                  <p>GPS</p>
+                  <p>Focuser</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a id="menu6.2" href="#" class="nav-link">
                   <i class="fas fa-cloud-moon-rain nav-icon"></i>
                   <span class="badge badge-danger right">0</span>
-                  <p>Weather &amp; Sky</p>
+                  <p>Sky Quality</p>
                 </a>
               </li>
             </ul>

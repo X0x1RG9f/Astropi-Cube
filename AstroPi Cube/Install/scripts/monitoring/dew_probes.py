@@ -13,7 +13,7 @@ import RPi.GPIO as GPIO
 import signal
 
 # Pins definitions
-PINS 		= [24,23,4,22]
+PINS 		= [24,23,4,25]
 
 # Set up pins
 #GPIO.setwarnings(False)

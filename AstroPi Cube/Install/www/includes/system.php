@@ -7,6 +7,6 @@
 		system('sudo shutdown -h now');
 	}
 	if ($_GET['cmd'] == 'db') {
-		echo system('python /opt/astropi/scripts/database/clean.py');
+		echo system('python /opt/astropi-cube/scripts/database/clean.py');
 	}
 ?>

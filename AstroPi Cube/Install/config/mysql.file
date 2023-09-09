@@ -1,10 +1,10 @@
-DROP USER IF EXISTS 'astropi'@'localhost';
-CREATE USER 'astropi'@'localhost' IDENTIFIED BY '@str0pi';
-DROP DATABASE IF EXISTS astropi;
-CREATE DATABASE astropi;
-GRANT ALL PRIVILEGES ON astropi.* TO 'astropi'@'localhost';
+DROP USER IF EXISTS 'astropicube'@'localhost';
+CREATE USER 'astropicube'@'localhost' IDENTIFIED BY '@str0picuB3';
+DROP DATABASE IF EXISTS astropicube;
+CREATE DATABASE astropicube;
+GRANT ALL PRIVILEGES ON astropicube.* TO 'astropicube'@'localhost';
 
-use astropi;
+use astropicube;
 
 DROP TABLE IF EXISTS raspberry;
 DROP TABLE IF EXISTS power;

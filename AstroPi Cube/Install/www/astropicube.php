@@ -11,7 +11,7 @@
   <div class="wrapper">
     <!-- Preloader -->
     <div class="preloader flex-column justify-content-center align-items-center">
-      <img class="animation__shake" src="dist/img/saturn.png" alt="AstroPi" height="60" width="60">
+      <img class="animation__shake" src="dist/img/saturn.png" alt="AstroPi Cube" height="60" width="60">
     </div>
 
     <?php include 'includes/menu.php';?>
@@ -23,11 +23,11 @@
         <div class="container-fluid">
           <div class="row mb-2">
             <div class="col-sm-6">
-              <h1 class="m-0">AstroPi Hat</h1>
+              <h1 class="m-0">AstroPi Cube</h1>
             </div><!-- /.col -->
             <div class="col-sm-6">
               <ol class="breadcrumb float-sm-right">
-                <li class="breadcrumb-item active"><a href="#">AstroPi Hat</a></li>
+                <li class="breadcrumb-item active"><a href="#">AstroPi Cube</a></li>
               </ol>
             </div><!-- /.col -->
           </div><!-- /.row -->
@@ -130,7 +130,7 @@
                 <div class="card-header ui-sortable-handle">
                   <h3 class="card-title">
                     <i class="fas fa-thermometer-half mr-1"></i>
-                    AstroPi °C
+                    AstroPi Cube °C
                   </h3>
                   <div class="card-tools">
                     <ul class="nav nav-pills ml-auto">
@@ -167,7 +167,7 @@
           <div class="col-md-5 connectedSortable">
             <div class="card card-info">
                 <div class="card-header">
-                  <h3 class="card-title">AstroPi Modules</h3>
+                  <h3 class="card-title">AstroPi Cube Modules</h3>
                 </div>
                 <center>
                   <div class="card-body">
@@ -188,14 +188,11 @@
 
             <div class="card card-warning">
                 <div class="card-header">
-                  <h3 class="card-title">AstroPi System / Database Commands</h3>
+                  <h3 class="card-title">AstroPi Cube System / Database Commands</h3>
                 </div>
                 <center>
                   <div class="card-body">
                     <p>Warning: Each button will perform action on the system / database without any confirmation!</p>
-                    <a onclick="$.get('includes/system.php?cmd=dbempty');" class="btn btn-app bg-warning">
-                      <i class="fas fa-stop-circle"></i> Stop AstroPi
-                    </a>
                     <a onclick="$.get('includes/system.php?cmd=restart');" class="btn btn-app bg-warning">
                       <i class="fas fa-power-off"></i> Restart
                     </a>
@@ -204,9 +201,6 @@
                     </a>
                     <a onclick="$.get('includes/system.php?cmd=db');" class="btn btn-app bg-warning">
                       <i class="fas fa-database"></i> Clear DB
-                    </a>
-                    <a onclick="$.get('includes/system.php?cmd=dbempty');" class="btn btn-app bg-danger">
-                      <i class="fas fa-database"></i> Empty DB
                     </a>
                   </div>
                 </center>
