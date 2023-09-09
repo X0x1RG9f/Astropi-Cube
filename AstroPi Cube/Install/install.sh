@@ -4,6 +4,7 @@
 
 sudo apt-get update -y
 sudo apt-get full-upgrade -y
+sudo apt-get install --purge virtualgps
 
 sudo apt-get install git php-fpm mariadb-server php-mysql -y
 pip3 install mysql-connector
