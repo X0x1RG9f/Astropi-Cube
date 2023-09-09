@@ -1,0 +1,10 @@
+[Unit]
+Description=AstroPi Cube Initialization
+ 
+[Service]
+ExecStart=/opt/astropi-cube/scripts/startup/astropi-cube.sh 
+Restart=on-failure
+
+ 
+[Install]
+WantedBy=multi-user.target
