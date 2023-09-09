@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/usr/bin/mysql -uroot < /opt/astropi/config/mysql.file
+/usr/bin/mysql -uroot < /opt/astropi-cube/config/mysql.file
